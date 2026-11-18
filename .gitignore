@@ -1,0 +1,17 @@
+node_modules/
+dist/
+work/
+.taste-skill/
+outputs/*.zip
+*.log
+*.tsbuildinfo
+.playwright-mcp/
+
+node_modules/
+dist/
+work/
+*.log
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
